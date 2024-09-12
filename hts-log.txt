@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 12 Sep 2024 12:21:18 at https://crowdytheme.com/wp/arolax/creative-portfolio/full-width-slicer-slider/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://crowdytheme.com/wp/arolax/creative-portfolio/full-width-slicer-slider/ -O1 "D:\slider\Carouseltrantor" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:21:44	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/creative-portfolio/wp-content/themes/arolax/assets/imgs/writer/go-top.png (from https://crowdytheme.com/wp/arolax/creative-portfolio/wp-content/cache/min/26/wp/arolax/creative-portfolio/wp-content/themes/arolax/assets/css/master.css?ver=1725451209)
+12:21:44	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/creative-portfolio/full-width-slicer-slider/.part (from https://crowdytheme.com/wp/arolax/creative-portfolio/wp-content/cache/min/26/wp/arolax/creative-portfolio/wp-content/plugins/wcf-addons-pro/assets/js/wcf-addons-pro.js?ver=1725451209)
+12:21:44	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/creative-portfolio/full-width-slicer-slider/-negative.svg (from https://crowdytheme.com/wp/arolax/creative-portfolio/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4)
+12:21:45	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/creative-portfolio/full-width-slicer-slider/OPR/ (from https://crowdytheme.com/wp/arolax/creative-portfolio/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4)
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 seconds : 54 links scanned, 49 files written (1403175 bytes overall) [537639 bytes received at 19912 bytes/sec], 1714859 bytes transferred using HTTP compression in 47 files, ratio 22%, 18.0 requests per connection
+(4 errors, 0 warnings, 0 messages)
